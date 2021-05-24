@@ -69,7 +69,7 @@
   <img height="40" src="https://image.flaticon.com/icons/png/512/889/889192.png">
   <img height="40" src="https://image.flaticon.com/icons/png/512/278/278157.png">
   <img height="40" src="https://image.flaticon.com/icons/png/512/906/906324.png">
-    <img height="40" src="https://image.flaticon.com/icons/png/512/2305/2305934.png">
+  <img height="40" src="https://image.flaticon.com/icons/png/512/2305/2305934.png">
   </p>
   
 &nbsp;  
