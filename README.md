@@ -1,14 +1,13 @@
-<!-- Title -->
 <h1 align="center">Hi, I'm Gururaj KL 
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px">
   </h2></h1>
 
 
-<!-- Quote -->
+
 <p align="center">I would like to change the World but they won't give me the source code
   
-  <!-- Social Network -->
+
 <h1 align="center">
 <a href="https://www.instagram.com/gururajstagram/">
   <img align="center" 
