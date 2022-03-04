@@ -27,7 +27,7 @@
   <img align="center" 
        alt="Stack Overflow" 
        width="22px" 
-       src="https://image.flaticon.com/icons/png/512/732/732248.png" />
+       src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" />
   </a>
   
 <a href="mailto:gururajragavendra7@gmail.com">
