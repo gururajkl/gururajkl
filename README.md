@@ -57,19 +57,7 @@
 
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
   
-  <img height="40" src="https://image.flaticon.com/icons/png/512/226/226777.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-  <img height="40" src="https://image.flaticon.com/icons/png/512/1199/1199124.png">
-  <img height="40" src="https://image.flaticon.com/icons/png/512/888/888847.png">
-  <img height="40" src="https://image.flaticon.com/icons/png/512/888/888859.png">
-  <img height="40" src="https://image.flaticon.com/icons/png/512/919/919831.png">
-  <img height="40" src="https://image.flaticon.com/icons/png/512/852/852484.png">
-  <img height="40" src="https://image.flaticon.com/icons/png/512/3665/3665923.png">
-  <img height="40" src="https://image.flaticon.com/icons/png/512/1822/1822877.png">
-  <img height="40" src="https://image.flaticon.com/icons/png/512/889/889192.png">
-  <img height="40" src="https://image.flaticon.com/icons/png/512/278/278157.png">
-  <img height="40" src="https://image.flaticon.com/icons/png/512/906/906324.png">
-  <img height="40" src="https://image.flaticon.com/icons/png/512/2305/2305934.png">
+  <img height="40" src="https://user-images.githubusercontent.com/54950082/160266593-8113a8fe-b378-45f9-bb5e-9de35f6a3c4a.png">
   </p>
   
 &nbsp;  
