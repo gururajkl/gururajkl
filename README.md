@@ -12,6 +12,7 @@
 <a href="https://www.instagram.com/gururajstagram/">
   <img align="center" 
        alt="Lunox's Instagram" 
+       height = '22px'
        width="22px" 
        src="https://user-images.githubusercontent.com/54950082/160267010-b1d2d9ad-71b5-4bb4-bce6-726a8da0292e.png" />
   </a>
