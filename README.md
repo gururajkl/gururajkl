@@ -58,6 +58,10 @@
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
   
   <img height="40" src="https://user-images.githubusercontent.com/54950082/160266593-8113a8fe-b378-45f9-bb5e-9de35f6a3c4a.png">
+  <img height="40" src="https://user-images.githubusercontent.com/54950082/160266661-abaa1c23-8039-4af9-abd0-40b6376c44e8.png">
+  <img height="40" src="https://user-images.githubusercontent.com/54950082/160266688-51503614-acde-46cd-a92e-ba3f68918f53.png">
+  <img height="40" src="https://user-images.githubusercontent.com/54950082/160266688-51503614-acde-46cd-a92e-ba3f68918f53.png">
+
   </p>
   
 &nbsp;  
