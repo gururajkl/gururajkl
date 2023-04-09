@@ -57,7 +57,9 @@
 
 
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
-  
+
+<!-- C# -->
+  <img height="40" src="https://user-images.githubusercontent.com/54950082/230780361-e6e2f2c2-ead2-4610-93b3-b041c0ccc030.png">
 <!--  py   -->
   <img height="40" src="https://user-images.githubusercontent.com/54950082/160266593-8113a8fe-b378-45f9-bb5e-9de35f6a3c4a.png">
 <!--  HTML   -->
