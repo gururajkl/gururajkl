@@ -3,10 +3,7 @@
        width="30px">
   </h2></h1>
 
-
-
 <p align="center">I would like to change the World but they won't give me the source code
-  
 
 <h1 align="center">
 <a href="https://www.instagram.com/gururajstagram/">
@@ -46,47 +43,30 @@
   </a>
 </h1>
 
-
-
-
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
 
 &nbsp;
 
+<p>
+  <h3 align="center"><strong> Technical Skills: 💻 </strong></h3>
+</p>
 
-<p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
-
-<!-- C# -->
-  <img height="40" src="https://user-images.githubusercontent.com/54950082/230780600-eb4f8abc-0a4a-4fe9-8552-9fcedff4b0b8.png">
-<!--  py   -->
-  <img height="40" src="https://user-images.githubusercontent.com/54950082/160266593-8113a8fe-b378-45f9-bb5e-9de35f6a3c4a.png">
-<!--  HTML   -->
-  <img height="40" src="https://user-images.githubusercontent.com/54950082/160266661-abaa1c23-8039-4af9-abd0-40b6376c44e8.png">
-<!--  CSS   -->
-  <img height="40" src="https://user-images.githubusercontent.com/54950082/160266688-51503614-acde-46cd-a92e-ba3f68918f53.png">
-<!--  JS   -->
-  <img height="40" src="https://user-images.githubusercontent.com/54950082/160266711-4e1befad-c704-4f50-a6c5-0ac9e972c6fe.png">
-<!--  React  -->
-  <img height="40" src="https://user-images.githubusercontent.com/54950082/160266910-9432372c-fa93-46ac-ae1e-7cfd713ff05e.png">
-<!-- NodeJs   -->
-  <img height="40" src="https://user-images.githubusercontent.com/54950082/160266937-c0faf397-f7f9-4a99-a4cb-9f5c27727120.png">
-<!--  C  -->
-  <img height="40" src="https://user-images.githubusercontent.com/54950082/160266783-03dd4395-d374-497b-8218-493fa2a4710b.png">
-<!--  C++  -->
-  <img height="40" src="https://user-images.githubusercontent.com/54950082/160266746-b8904bc7-a315-44d2-a530-f20371ad4623.png">
-<!--  Android  -->
-  <img height="40" src="https://user-images.githubusercontent.com/54950082/160266822-8a02c787-6448-4798-ad32-cda9c0fe8c52.png">
-<!--  Kotlin  -->
-  <img height="40" src="https://user-images.githubusercontent.com/54950082/160266864-03955f00-8c38-4ba7-b44e-51644cabc8a9.png">
-<!-- Git   -->
-  <img height="40" src="https://user-images.githubusercontent.com/54950082/160266979-86e441c1-a137-4f91-b69e-fbd2d94e698c.png">
-
- </p>
+<p align="center">
+  <img height="30" width="30" src="https://user-images.githubusercontent.com/54950082/230780600-eb4f8abc-0a4a-4fe9-8552-9fcedff4b0b8.png" alt="C#" style="margin: 5px;" />
+  <img height="30" width="30" src="https://user-images.githubusercontent.com/54950082/160266593-8113a8fe-b378-45f9-bb5e-9de35f6a3c4a.png" alt="Python" style="margin: 5px;" />
+  <img height="30" width="30" src="https://user-images.githubusercontent.com/54950082/160266661-abaa1c23-8039-4af9-abd0-40b6376c44e8.png" alt="HTML" style="margin: 5px;" />
+  <img height="30" width="30" src="https://user-images.githubusercontent.com/54950082/160266688-51503614-acde-46cd-a92e-ba3f68918f53.png" alt="CSS" style="margin: 5px;" />
+  <img height="30" width="30" src="https://user-images.githubusercontent.com/54950082/160266711-4e1befad-c704-4f50-a6c5-0ac9e972c6fe.png" alt="JavaScript" style="margin: 5px;" />
+  <img height="30" width="30" src="https://user-images.githubusercontent.com/54950082/160266910-9432372c-fa93-46ac-ae1e-7cfd713ff05e.png" alt="React" style="margin: 5px;" />
+  <img height="30" width="30" src="https://user-images.githubusercontent.com/54950082/160266937-c0faf397-f7f9-4a99-a4cb-9f5c27727120.png" alt="NodeJS" style="margin: 5px;" />
+  <img height="30" width="30" src="https://user-images.githubusercontent.com/54950082/160266783-03dd4395-d374-497b-8218-493fa2a4710b.png" alt="C" style="margin: 5px;" />
+  <img height="30" width="30"" src="https://user-images.githubusercontent.com/54950082/160266746-b8904bc7-a315-44d2-a530-f20371ad4623.png" alt="C++" style="margin: 5px;" />
+  <img height="30" width="30" src="https://user-images.githubusercontent.com/54950082/160266822-8a02c787-6448-4798-ad32-cda9c0fe8c52.png" alt="Android" style="margin: 5px;" />
+  <img height="30" width="30" src="https://user-images.githubusercontent.com/54950082/160266864-03955f00-8c38-4ba7-b44e-51644cabc8a9.png" alt="Kotlin" style="margin: 5px;" />
+  <img height="30" width="30" src="https://user-images.githubusercontent.com/54950082/160266979-86e441c1-a137-4f91-b69e-fbd2d94e698c.png" alt="Git" style="margin: 5px;" />
+</p>
   
-&nbsp;  
-
-
 &nbsp;
-
+&nbsp;
