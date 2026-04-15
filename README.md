@@ -37,7 +37,7 @@
 <h3 align="center">🚀 Technical Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,html,css,js,react,nodejs,c,cpp,androidstudio,kotlin,git" />
+  <img src="https://skillicons.dev/icons?i=cs,python,html,css,js,react,nodejs,c,cpp,androidstudio,kotlin,git,azure" />
 </p>
 
 ---
