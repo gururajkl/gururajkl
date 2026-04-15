@@ -11,24 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/gururajstagram/">
-    <img src="https://user-images.githubusercontent.com/54950082/160267010-b1d2d9ad-71b5-4bb4-bce6-726a8da0292e.png" width="22" />
-  </a>
-  <a href="https://www.linkedin.com/in/gururaj-kl-33363b188/">
-    <img src="https://user-images.githubusercontent.com/54950082/160267055-10fa08c3-c93a-4b03-9f72-4d11077f4370.png" width="22" />
-  </a>
-  <a href="https://stackoverflow.com/users/16006347/gururaj-kl">
-    <img src="https://user-images.githubusercontent.com/54950082/160267081-1528a0a4-ec24-4ec9-9294-a8c516ebb8ec.png" width="22" />
-  </a>
-  <a href="mailto:gururajragavendra7@gmail.com">
-    <img src="https://user-images.githubusercontent.com/54950082/160267096-163b71c2-9047-4fea-a754-a43fe6a55b12.png" width="22" />
-  </a>
-  <a href="https://www.facebook.com/gururaj.ragavendra/">
-    <img src="https://user-images.githubusercontent.com/54950082/160267217-309e12e4-cf99-4978-beb1-0373f781a4b4.png" width="22" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif" width="600" />
 </p>
 
@@ -55,3 +37,47 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gururajkl&layout=compact&theme=tokyonight" />
 </p>
+
+<h1 align="center">
+<a href="https://www.instagram.com/gururajstagram/">
+  <img align="center" 
+       alt="Lunox's Instagram" 
+       height = "22px"
+       width="22px" 
+       src="https://user-images.githubusercontent.com/54950082/160267010-b1d2d9ad-71b5-4bb4-bce6-726a8da0292e.png" />
+  </a>
+  
+<a href="https://www.linkedin.com/in/gururaj-kl-33363b188/">
+  <img align="center" 
+       alt="Linkdein" 
+       width="22px" 
+       src="https://user-images.githubusercontent.com/54950082/160267055-10fa08c3-c93a-4b03-9f72-4d11077f4370.png" />
+  </a>
+
+<a href="https://stackoverflow.com/users/16006347/gururaj-kl">
+  <img align="center" 
+       alt="Stack Overflow" 
+       width="22px" 
+       src="https://user-images.githubusercontent.com/54950082/160267081-1528a0a4-ec24-4ec9-9294-a8c516ebb8ec.png" />
+  </a>
+  
+<a href="mailto:gururajragavendra7@gmail.com">
+  <img align="center" 
+       alt="Gmail" 
+       width="22px" 
+       src="https://user-images.githubusercontent.com/54950082/160267096-163b71c2-9047-4fea-a754-a43fe6a55b12.png" />
+  </a>
+  
+  <a href="https://www.facebook.com/gururaj.ragavendra/">
+  <img align="center" 
+       alt="facebook" 
+       width="22px" 
+       src="https://user-images.githubusercontent.com/54950082/160267217-309e12e4-cf99-4978-beb1-0373f781a4b4.png" />
+  </a>
+</h1>
+
+<br />
+<br />
+
+&nbsp;
+&nbsp;
