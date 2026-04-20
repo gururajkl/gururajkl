@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gururajkl&label=Profile%20views&color=8b5cf6&style=for-the-badge" />
+</p>
+
+<p align="center">
   I would like to change the world, but they won't give me the source code 💻
 </p>
 
