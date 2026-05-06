@@ -45,9 +45,3 @@
   <a href="https://instagram.com/gururajstagram/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" /></a>&nbsp;&nbsp;
   <a href="https://facebook.com/gururaj.ragavendra/" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" /></a>
 </p>
-
-<br />
-<br />
-
-&nbsp;
-&nbsp;
