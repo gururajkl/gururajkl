@@ -31,16 +31,10 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gururajkl&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=gururajkl&theme=tokyonight" />
 </p>
 
 ---
-
-<h3 align="center">🔥 Top Languages</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gururajkl&layout=compact&theme=tokyonight" />
-</p>
 
 <h1 align="center">
 <a href="https://www.instagram.com/gururajstagram/">
