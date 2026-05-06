@@ -36,43 +36,15 @@
 
 ---
 
-<h1 align="center">
-<a href="https://www.instagram.com/gururajstagram/">
-  <img align="center" 
-       alt="Lunox's Instagram" 
-       height = "22px"
-       width="22px" 
-       src="https://user-images.githubusercontent.com/54950082/160267010-b1d2d9ad-71b5-4bb4-bce6-726a8da0292e.png" />
-  </a>
-  
-<a href="https://www.linkedin.com/in/gururaj-kl-33363b188/">
-  <img align="center" 
-       alt="Linkdein" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/54950082/160267055-10fa08c3-c93a-4b03-9f72-4d11077f4370.png" />
-  </a>
+<h3 align="center">🤝 Connect with Me</h3>
 
-<a href="https://stackoverflow.com/users/16006347/gururaj-kl">
-  <img align="center" 
-       alt="Stack Overflow" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/54950082/160267081-1528a0a4-ec24-4ec9-9294-a8c516ebb8ec.png" />
-  </a>
-  
-<a href="mailto:gururajragavendra7@gmail.com">
-  <img align="center" 
-       alt="Gmail" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/54950082/160267096-163b71c2-9047-4fea-a754-a43fe6a55b12.png" />
-  </a>
-  
-  <a href="https://www.facebook.com/gururaj.ragavendra/">
-  <img align="center" 
-       alt="facebook" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/54950082/160267217-309e12e4-cf99-4978-beb1-0373f781a4b4.png" />
-  </a>
-</h1>
+<p align="center">
+  <a href="https://linkedin.com/in/gururaj-kl-33363b188" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/16006347/gururaj-kl" target="_blank"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="40" /></a>&nbsp;&nbsp;
+  <a href="mailto:gururajragavendra7@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/gururajstagram/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://facebook.com/gururaj.ragavendra/" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" /></a>
+</p>
 
 <br />
 <br />
