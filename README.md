@@ -28,14 +28,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gururajkl&theme=tokyonight" />
-</p>
-
----
-
 <h3 align="center">🤝 Connect with Me</h3>
 
 <p align="center">
